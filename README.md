@@ -12,6 +12,7 @@ Also, everyone can share own work to safe wooden architecture.
 ### Technologies  
 
 FrontEnd: *React, Typescript, Wouter*    
+State Managment: *Context API + cookie*  
 API: *GraphQL, Apollo*  
 CI/CD: *Docker*  
 BackEnd: *Node, ExpressJS, MongoDB*  
