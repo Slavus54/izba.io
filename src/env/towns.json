@@ -1,0 +1,258 @@
+[
+    {
+        "title": "Kharkiv",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.0044,
+            "long": 36.2357
+        }
+    },
+    {
+        "title": "Kyiv",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.4495,
+            "long": 30.5253
+        }
+    },
+    {
+        "title": "Poltava",
+        "domain": "ua",
+        "cords": {
+            "lat": 49.5896,
+            "long": 34.5513
+        }
+    },
+    {
+        "title": "Cherkasy",
+        "domain": "ua",
+        "cords": {
+            "lat": 49.4444,
+            "long": 32.0593
+        }
+    },
+    {
+        "title": "Zaporozhye",
+        "domain": "ua",
+        "cords": {
+            "lat": 47.8134,
+            "long": 35.1813
+        }
+    },
+    {
+        "title": "Dnieper",
+        "domain": "ua",
+        "cords": {
+            "lat": 48.4644,
+            "long": 35.0457
+        }
+    },
+    {
+        "title": "Zhytomyr",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.2546,
+            "long": 28.6586
+        }
+    },
+    {
+        "title": "Khmelnitsky",
+        "domain": "ua",
+        "cords": {
+            "lat": 49.4233,
+            "long": 26.9862
+        }
+    },
+    {
+        "title": "Lutsk",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.7471,
+            "long": 25.3261
+        }
+    },
+    {
+        "title": "Lviv",
+        "domain": "ua",
+        "cords": {
+            "lat": 49.8436,
+            "long": 24.0268
+        }
+    },
+    {
+        "title": "Riga",
+        "domain": "lv",
+        "cords": {
+            "lat": 56.9466,
+            "long": 24.1052
+        }
+    },
+    {
+        "title": "Daugavpils",
+        "domain": "lv",
+        "cords": {
+            "lat": 55.8716,
+            "long": 26.5162
+        }
+    },
+    {
+        "title": "Ventspils",
+        "domain": "lv",
+        "cords": {
+            "lat": 57.3977,
+            "long": 21.5676
+        }
+    },
+    {
+        "title": "Liepaja",
+        "domain": "lv",
+        "cords": {
+            "lat": 56.5082,
+            "long": 21.0122
+        }
+    },
+    {
+        "title": "Jelgava",
+        "domain": "lv",
+        "cords": {
+            "lat": 56.6532,
+            "long": 23.7286
+        }
+    },
+    {
+        "title": "Rezekne",
+        "domain": "lv",
+        "cords": {
+            "lat": 56.5067,
+            "long": 27.3304
+        }
+    },
+    {
+        "title": "Valmiera",
+        "domain": "lv",
+        "cords": {
+            "lat": 57.5381,
+            "long": 25.4224
+        }
+    },
+    {
+        "title": "Kraslava",
+        "domain": "lv",
+        "cords": {
+            "lat": 55.8955,
+            "long": 27.1645
+        }
+    },
+    {
+        "title": "Minsk",
+        "domain": "by",
+        "cords": {
+            "lat": 53.9024,
+            "long": 27.5622
+        }
+    },
+    {
+        "title": "Vitebsk",
+        "domain": "by",
+        "cords": {
+            "lat": 55.1959,
+            "long": 30.2051
+        }
+    },
+    {
+        "title": "Mogilev",
+        "domain": "by",
+        "cords": {
+            "lat": 53.8948,
+            "long": 30.3307
+        }
+    },
+    {
+        "title": "Gomel",
+        "domain": "by",
+        "cords": {
+            "lat": 52.426,
+            "long": 31.0140
+        }
+    },
+    {
+        "title": "Mozyr",
+        "domain": "by",
+        "cords": {
+            "lat": 52.0474,
+            "long": 29.2655
+        }
+    },
+    {
+        "title": "Brest",
+        "domain": "by",
+        "cords": {
+            "lat": 52.0981,
+            "long": 23.6886
+        }
+    },
+    {
+        "title": "Grodno",
+        "domain": "by",
+        "cords": {
+            "lat": 53.6782,
+            "long": 23.8308
+        }
+    },
+    {
+        "title": "Moscow",
+        "domain": "ru",
+        "cords": {
+            "lat": 55.7542,
+            "long": 37.6206
+        }
+    },
+    {
+        "title": "Saint Petersburg",
+        "domain": "ru",
+        "cords": {
+            "lat": 59.9393,
+            "long": 30.3157
+        }
+    },
+    {
+        "title": "Novosibirsk",
+        "domain": "ru",
+        "cords": {
+            "lat": 55.0299,
+            "long": 82.9205
+        }
+    },
+    {
+        "title": "Omsk",
+        "domain": "ru",
+        "cords": {
+            "lat": 54.9902,
+            "long": 73.3663
+        }
+    },
+    {
+        "title": "Tomsk",
+        "domain": "ru",
+        "cords": {
+            "lat": 56.4883,
+            "long": 84.9481
+        }
+    },
+    {
+        "title": "Krasnoyarsk",
+        "domain": "ru",
+        "cords": {
+            "lat": 56.0117,
+            "long": 92.8653
+        }
+    },
+    {
+        "title": "Irkutsk",
+        "domain": "ru",
+        "cords": {
+            "lat": 52.2802,
+            "long": 104.2824
+        }
+    }
+]

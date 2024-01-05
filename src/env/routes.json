@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Main",
+        "access_value": 0,
+        "url": "/"
+    },
+    {
+        "title": "To Account",
+        "access_value": -1,
+        "url": "/login"
+    },
+    {
+        "title": "Projects",
+        "access_value": 1,
+        "url": "/projects"
+    },
+    {
+        "title": "Companies",
+        "access_value": 1,
+        "url": "/companies"
+    },
+    {
+        "title": "Tools",
+        "access_value": 1,
+        "url": "/tools"
+    },
+    {
+        "title": "Profiles",
+        "access_value": 1,
+        "url": "/profiles"
+    }
+]
